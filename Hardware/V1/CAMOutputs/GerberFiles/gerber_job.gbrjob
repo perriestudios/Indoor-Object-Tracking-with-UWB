@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-11-14T05:23:07Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.2.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "V1"
+        },
+        "Owner": "Pranav Srinivas <pranavsr1@outlook.com>",
+        "Size": {
+            "X": 79.68,
+            "Y": 55.55
+        }
+    }
+}
